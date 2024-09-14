@@ -5,15 +5,12 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">  
   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
-  
-  <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cris-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt= "Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
-  <img align="center" alt="Cris-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000">  
+  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000">  
+  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000">  
+  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=33042&format=png&color=000000">  
 </div><br>
 
 ### GitHub Stats
