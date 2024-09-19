@@ -6,11 +6,13 @@
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000">  
-  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
-  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000">  
-  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000">  
-  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000">  
-  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=33042&format=png&color=000000">  
+   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=JAOzEPu9w5iE&format=png&color=000000">  
+   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
+   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
+   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000">  
+   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000">  
+   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000">  
+   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=33042&format=png&color=000000">  
 </div><br>
 
 ### GitHub Stats
