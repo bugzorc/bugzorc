@@ -13,6 +13,7 @@
    <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000">  
    <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=NeNPFdj7MzXi&format=png&color=000000">  
    <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=33042&format=png&color=000000">  
+   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://img.icons8.com/?size=100&id=108781&format=png&color=000000">  
 </div><br>
 
 ### GitHub Stats
